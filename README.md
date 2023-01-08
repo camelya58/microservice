@@ -9,7 +9,7 @@
 - *Микросервисы* - frontend, API Gateway к разным backend с API, messageBroker для межсервисной коммуникации.
 - *Микрофронтенды* – разные frontend, API Gateway к разным backend с API, messageBroker для межсервисной коммуникации.
 
-![Хронология развития архиектур](https://ibb.co/ZTtLt8F)
+<image src="https://ibb.co/ZTtLt8F" alt="Хронология развития архитектур">
 
 #### Монолит
 «Большой комок грязи»:
